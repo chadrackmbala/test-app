@@ -18,3 +18,7 @@ nav {
   gap: 20px;
   text-decoration: none;
 }
+.sidebar {
+  display: flex;
+  margin: 50px;
+}
